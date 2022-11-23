@@ -1,0 +1,8 @@
+'age','job','marital','education','default','housing','loan','contact','month','day_of_week','duration','campaign','pdays',
+             'previous','poutcome','emp var rate','cons price idx','cons conf idx','euribor3m','nr employed'\\
+
+
+'Age','JOB_admin.','JOB_blue-collar','JOB_entrepreneur','JOB_housemaid','JOB_management','JOB_retired','JOB_self-employed','JOB_services','JOB_student','JOB_technician','JOB_unemployed','JOB_unknown,Marital_divorced',
+             'Marital_married','Marital_single','Marital_unknown','Education_basic.4y','Education_basic.6y','Education_basic.9y','Education_high.school','Education_illiterate','Education_professional.course','Education_university.degree',
+             'Education_unknown','Creditviolation_no','Creditviolation_unknown','Creditviolation_yes','Mortgage_no','Mortgage_unknown','Mortgage_yes','Loan_no','Loan_unknown','Loan_yes','Contact','Month_CPI_CCI_1','Month_CPI_CCI_2',
+             'Month_CPI_CCI_3',Month_CPI_CCI_4,Month_CPI_CCI_5,Month_CPI_CCI_6,Month_CPI_CCI_7,Month_CPI_CCI_8,Month_CPI_CCI_9,Month_CPI_CCI_10,Month_CPI_CCI_11,Month_CPI_CCI_12,Month_CPI_CCI_13,Month_CPI_CCI_14,Month_CPI_CCI_15,Month_CPI_CCI_16,Month_CPI_CCI_17,Month_CPI_CCI_18,Month_CPI_CCI_19,Month_CPI_CCI_20,Month_CPI_CCI_21,Month_CPI_CCI_22,Month_CPI_CCI_23,Month_CPI_CCI_24,Month_CPI_CCI_25,Month_CPI_CCI_26,DOW_mon,DOW_tue,DOW_wed,DOW_thu,DOW_fri,Duration,Campaign,Pdays_0,Pdays_1,Pdays_2,Pdays_3,Pdays_4,Pdays_5,Pdays_6,Pdays_7,Pdays_8,Pdays_9,Pdays_10,Pdays_11,Pdays_12,Pdays_13,Pdays_14,Pdays_15,Pdays_16,Pdays_17,Pdays_18,Pdays_19,Pdays_20,Pdays_21,Pdays_22,Pdays_25,Pdays_26,Pdays_27,Pdays_999,Previous,Poutcome_failure,Poutcome_nonexistent,Poutcome_success,EVR,E3,NE,Subscription
